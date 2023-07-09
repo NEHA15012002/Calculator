@@ -38,11 +38,11 @@ root.render(
   <Component1/>
   <Component4/>*/
   //<Merge/> 
-   //<Calci/>
+   <Calci/>
    //<Login/>
    //<Provider store={store}><App/></Provider>
    //<Comp1/>
-   <Form/>
+   //<Form/>
    //<Use/>
    }
   </React.StrictMode>
